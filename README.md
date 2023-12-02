@@ -12,7 +12,6 @@ This project is part of the **CSE422 - Artificial Intelligence** course at **BRA
 - Learn about data preprocessing, feature engineering, and model evaluation.
 
 **Note:**
-This project is a work in progress. Contributions and feedback are welcome.
-
+This was a class project. Feel free to help us improve.
 ---
 **Disclaimer:** This project is intended for educational purposes and is not for production use.
